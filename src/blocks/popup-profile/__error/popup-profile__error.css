@@ -1,0 +1,7 @@
+.popup-profile__error {
+    margin: 4px 0 0 0;
+    color: #FF0000;
+    font-size: 12px;
+    line-height: 1.25;
+    display: none;
+}
